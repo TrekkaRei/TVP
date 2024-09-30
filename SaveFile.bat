@@ -1,3 +1,3 @@
-set /a credit1=550 
-set /a gamesPlayed=450 
+set /a credit1=1000 
+set /a gamesPlayed=0
 set readVar=TRUE 
